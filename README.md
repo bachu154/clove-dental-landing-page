@@ -1,31 +1,34 @@
-# 🦷 Clove Dental Landing Page
+# 🧪 Unbundl Landing Page Assignment
 
-A modern, responsive landing page for a dental clinic, developed using **Next.js**, **Tailwind CSS**, and UI generated via **V0.dev**. This project is a pixel-perfect implementation of the Figma assignment design.
-
----
-
-## 🚀 Tech Stack
-
-- Next.js 14
-- React
-- Tailwind CSS
-- V0.dev (AI UI generation)
+This project is a **responsive landing page** created for the Unbundl Web Development Internship assignment. The page is built from a Figma design and includes key interactive and responsive UI features, implemented using **HTML**, **CSS**, and **JavaScript (Vanilla)**.
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [**Click here to view the live site**](https://v0-clove-dental-landing-page.vercel.app/)
+👉 [Click here to view the live site](https://v0-clove-dental-landing-page.vercel.app/)
 
 ---
 
-## 📸 Screenshot
+## 🛠️ Technologies Used
 
-![Landing Page Screenshot](screenshots/landing-page-full.png)
-
-> 💡 Be sure to upload your screenshot to the `/screenshots` folder.
+- **HTML5** – Semantic structure
+- **CSS3** – Layouts using Flexbox, Grid, and media queries
+- **Vanilla JavaScript** – Interactivity (e.g., menu toggle)
+- **Figma** – Design reference
 
 ---
 
-## 🧩 Project Structure
+## 🎯 Assignment Requirements Fulfilled
+
+✅ Used **semantic HTML structure**  
+✅ Styled using **custom CSS (no libraries)**  
+✅ Implemented **vanilla JavaScript** for basic interactivity  
+✅ Created **6+ sections** from the given Figma design  
+✅ Ensured **full responsiveness** across desktop, tablet, and mobile  
+✅ **Deployed online** with live accessible link
+
+---
+
+## 📁 Project Structure
 
