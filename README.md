@@ -1,15 +1,21 @@
 # 🦷 Clove Dental Landing Page
 
-A modern, responsive landing page designed for a dental clinic, developed using **Next.js**, **Tailwind CSS**, and UI generated via **V0.dev**. This project replicates the Figma design accurately and is ready for production or deployment.
+A modern, responsive landing page for a dental clinic, developed using **Next.js**, **Tailwind CSS**, and UI generated via **V0.dev**. This project is a pixel-perfect implementation of the Figma assignment design.
 
 ---
 
 ## 🚀 Tech Stack
 
-- ✅ Next.js 14
-- ✅ React
-- ✅ Tailwind CSS
-- ✅ V0.dev (AI UI generation)
+- Next.js 14
+- React
+- Tailwind CSS
+- V0.dev (AI UI generation)
+
+---
+
+## 🌐 Live Demo
+
+👉 [**Click here to view the live site**](https://v0-clove-dental-landing-page.vercel.app/)
 
 ---
 
@@ -17,7 +23,7 @@ A modern, responsive landing page designed for a dental clinic, developed using 
 
 ![Landing Page Screenshot](screenshots/landing-page-full.png)
 
-> 💡 Make sure the screenshot file is uploaded to a folder named `screenshots` in your GitHub repo.
+> 💡 Be sure to upload your screenshot to the `/screenshots` folder.
 
 ---
 
